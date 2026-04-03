@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail48.png" width="800">
+</p>
+---
 # 💬 Sentiment Analysis using NLP 
 
 ## 📌 Project Overview
@@ -97,7 +101,7 @@ Positive Sentiment 😊
 
 * 💼 LinkedIn: https://www.linkedin.com/in/senthamil45
 * 🌍 Portfolio: https://senthamill.vercel.app/
-* 💻 GitHub: https://github.com/selvan-01/Sentiment-Analysis-NLP.git
+* 💻 GitHub: https://github.com/selvan-01
 
 ---
 
